@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https://github.com/popular-tour-places/static/css/main.d3b8e1a2.chunk.css",
-    "main.js": "/https://github.com/popular-tour-places/static/js/main.efbd4408.chunk.js",
-    "main.js.map": "/https://github.com/popular-tour-places/static/js/main.efbd4408.chunk.js.map",
-    "runtime-main.js": "/https://github.com/popular-tour-places/static/js/runtime-main.663abd4d.js",
-    "runtime-main.js.map": "/https://github.com/popular-tour-places/static/js/runtime-main.663abd4d.js.map",
-    "static/js/2.b0155284.chunk.js": "/https://github.com/popular-tour-places/static/js/2.b0155284.chunk.js",
-    "static/js/2.b0155284.chunk.js.map": "/https://github.com/popular-tour-places/static/js/2.b0155284.chunk.js.map",
-    "index.html": "/https://github.com/popular-tour-places/index.html",
-    "static/css/main.d3b8e1a2.chunk.css.map": "/https://github.com/popular-tour-places/static/css/main.d3b8e1a2.chunk.css.map",
-    "static/js/2.b0155284.chunk.js.LICENSE.txt": "/https://github.com/popular-tour-places/static/js/2.b0155284.chunk.js.LICENSE.txt"
+    "main.css": "/popular-tour-places/static/css/main.d3b8e1a2.chunk.css",
+    "main.js": "/popular-tour-places/static/js/main.efbd4408.chunk.js",
+    "main.js.map": "/popular-tour-places/static/js/main.efbd4408.chunk.js.map",
+    "runtime-main.js": "/popular-tour-places/static/js/runtime-main.b4777085.js",
+    "runtime-main.js.map": "/popular-tour-places/static/js/runtime-main.b4777085.js.map",
+    "static/js/2.b0155284.chunk.js": "/popular-tour-places/static/js/2.b0155284.chunk.js",
+    "static/js/2.b0155284.chunk.js.map": "/popular-tour-places/static/js/2.b0155284.chunk.js.map",
+    "index.html": "/popular-tour-places/index.html",
+    "static/css/main.d3b8e1a2.chunk.css.map": "/popular-tour-places/static/css/main.d3b8e1a2.chunk.css.map",
+    "static/js/2.b0155284.chunk.js.LICENSE.txt": "/popular-tour-places/static/js/2.b0155284.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.663abd4d.js",
+    "static/js/runtime-main.b4777085.js",
     "static/js/2.b0155284.chunk.js",
     "static/css/main.d3b8e1a2.chunk.css",
     "static/js/main.efbd4408.chunk.js"
