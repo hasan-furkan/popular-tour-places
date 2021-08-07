@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-bar {
+  height: 20%;
+  width: 100%;
+  background-color: rgb(16, 21, 36);
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+li {
+  padding: 2rem;
+}
+a {
+  color: #fff;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+li:hover {
+  background-color: rgb(68, 226, 226);
+}

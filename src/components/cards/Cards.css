@@ -1,0 +1,46 @@
+.cards-group {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.cards {
+  width: 350px;
+  height: auto;
+  background-color: rgb(12, 27, 56);
+  border-radius: 5px;
+  padding: 1rem;
+}
+h3 {
+  color: #fff;
+  margin-bottom: 1rem;
+}
+.image {
+  width: 99%;
+  height: 260px;
+  background-color: black;
+  position: relative;
+}
+img {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  border-radius: 15px;
+}
+
+p {
+  opacity: 0;
+  position: absolute;
+  bottom: 0%;
+  left: 5%;
+  color: #fff;
+}
+.image:hover p {
+  opacity: 1;
+  bottom: 20%;
+  transition: all 0.5s ease-in-out;
+}
