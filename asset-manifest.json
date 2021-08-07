@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/https://github.com/popular-tour-places/static/css/main.d3b8e1a2.chunk.css",
-    "main.js": "/https://github.com/popular-tour-places/static/js/main.1dae8cf3.chunk.js",
-    "main.js.map": "/https://github.com/popular-tour-places/static/js/main.1dae8cf3.chunk.js.map",
-    "runtime-main.js": "/https://github.com/popular-tour-places/static/js/runtime-main.f94fa510.js",
-    "runtime-main.js.map": "/https://github.com/popular-tour-places/static/js/runtime-main.f94fa510.js.map",
-    "static/js/2.2654399d.chunk.js": "/https://github.com/popular-tour-places/static/js/2.2654399d.chunk.js",
-    "static/js/2.2654399d.chunk.js.map": "/https://github.com/popular-tour-places/static/js/2.2654399d.chunk.js.map",
+    "main.js": "/https://github.com/popular-tour-places/static/js/main.efbd4408.chunk.js",
+    "main.js.map": "/https://github.com/popular-tour-places/static/js/main.efbd4408.chunk.js.map",
+    "runtime-main.js": "/https://github.com/popular-tour-places/static/js/runtime-main.663abd4d.js",
+    "runtime-main.js.map": "/https://github.com/popular-tour-places/static/js/runtime-main.663abd4d.js.map",
+    "static/js/2.b0155284.chunk.js": "/https://github.com/popular-tour-places/static/js/2.b0155284.chunk.js",
+    "static/js/2.b0155284.chunk.js.map": "/https://github.com/popular-tour-places/static/js/2.b0155284.chunk.js.map",
     "index.html": "/https://github.com/popular-tour-places/index.html",
     "static/css/main.d3b8e1a2.chunk.css.map": "/https://github.com/popular-tour-places/static/css/main.d3b8e1a2.chunk.css.map",
-    "static/js/2.2654399d.chunk.js.LICENSE.txt": "/https://github.com/popular-tour-places/static/js/2.2654399d.chunk.js.LICENSE.txt"
+    "static/js/2.b0155284.chunk.js.LICENSE.txt": "/https://github.com/popular-tour-places/static/js/2.b0155284.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f94fa510.js",
-    "static/js/2.2654399d.chunk.js",
+    "static/js/runtime-main.663abd4d.js",
+    "static/js/2.b0155284.chunk.js",
     "static/css/main.d3b8e1a2.chunk.css",
-    "static/js/main.1dae8cf3.chunk.js"
+    "static/js/main.efbd4408.chunk.js"
   ]
 }
