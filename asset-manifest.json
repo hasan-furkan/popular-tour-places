@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https://github.com/hasan-furkan/popular-tour-places/static/css/main.d3b8e1a2.chunk.css",
-    "main.js": "/https://github.com/hasan-furkan/popular-tour-places/static/js/main.1dae8cf3.chunk.js",
-    "main.js.map": "/https://github.com/hasan-furkan/popular-tour-places/static/js/main.1dae8cf3.chunk.js.map",
-    "runtime-main.js": "/https://github.com/hasan-furkan/popular-tour-places/static/js/runtime-main.580b6ee5.js",
-    "runtime-main.js.map": "/https://github.com/hasan-furkan/popular-tour-places/static/js/runtime-main.580b6ee5.js.map",
-    "static/js/2.2654399d.chunk.js": "/https://github.com/hasan-furkan/popular-tour-places/static/js/2.2654399d.chunk.js",
-    "static/js/2.2654399d.chunk.js.map": "/https://github.com/hasan-furkan/popular-tour-places/static/js/2.2654399d.chunk.js.map",
-    "index.html": "/https://github.com/hasan-furkan/popular-tour-places/index.html",
-    "static/css/main.d3b8e1a2.chunk.css.map": "/https://github.com/hasan-furkan/popular-tour-places/static/css/main.d3b8e1a2.chunk.css.map",
-    "static/js/2.2654399d.chunk.js.LICENSE.txt": "/https://github.com/hasan-furkan/popular-tour-places/static/js/2.2654399d.chunk.js.LICENSE.txt"
+    "main.css": "/https://github.com/popular-tour-places/static/css/main.d3b8e1a2.chunk.css",
+    "main.js": "/https://github.com/popular-tour-places/static/js/main.1dae8cf3.chunk.js",
+    "main.js.map": "/https://github.com/popular-tour-places/static/js/main.1dae8cf3.chunk.js.map",
+    "runtime-main.js": "/https://github.com/popular-tour-places/static/js/runtime-main.f94fa510.js",
+    "runtime-main.js.map": "/https://github.com/popular-tour-places/static/js/runtime-main.f94fa510.js.map",
+    "static/js/2.2654399d.chunk.js": "/https://github.com/popular-tour-places/static/js/2.2654399d.chunk.js",
+    "static/js/2.2654399d.chunk.js.map": "/https://github.com/popular-tour-places/static/js/2.2654399d.chunk.js.map",
+    "index.html": "/https://github.com/popular-tour-places/index.html",
+    "static/css/main.d3b8e1a2.chunk.css.map": "/https://github.com/popular-tour-places/static/css/main.d3b8e1a2.chunk.css.map",
+    "static/js/2.2654399d.chunk.js.LICENSE.txt": "/https://github.com/popular-tour-places/static/js/2.2654399d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.580b6ee5.js",
+    "static/js/runtime-main.f94fa510.js",
     "static/js/2.2654399d.chunk.js",
     "static/css/main.d3b8e1a2.chunk.css",
     "static/js/main.1dae8cf3.chunk.js"
